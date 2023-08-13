@@ -4,7 +4,7 @@ import ssl, pathlib # wss secure dependencies
 
 #import keepalive
 #thread1 = keepalive.thread("pingendpt", 4881)
-#thread1.run(4881)
+#thread1.run(4881) f
 
 connections = []
 channels = {}
